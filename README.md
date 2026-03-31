@@ -32,7 +32,19 @@ Auditoría de Redes: Clasificar los dispositivos descubiertos en un escaneo ARP.
 3. Ingresa la dirección MAC del dispositivo sospechoso o a identificar (ej. `00:1A:2B:3C:4D:5E`).
 4. El sistema devolverá inmediatamente el nombre del fabricante.
 
-### Ejemplo de salida en consola:
+🤝 Feedback y Contribuciones
+Este script nació de la necesidad de crear algo verdaderamente útil y funcional para el día a día. Está pensado tanto para verificar equipos en redes domésticas como para agilizar los diagnósticos en el soporte técnico de proveedores de internet (ISPs).
+
+Sé que la teoría a veces choca con la práctica, así que si al usar esta herramienta en un entorno real notas detalles que no "acoplan" del todo bien, encuentras errores o tienes ideas para que funcione mejor, ¡estoy totalmente abierto a escucharlas!
+
+¿Cómo puedes aportar?
+
+Ve a la pestaña de [Issues] aquí en GitHub y cuéntame qué se puede mejorar o qué falló.
+Si sabes cómo optimizar el código, siéntete libre de hacer un Fork y enviarme un Pull Request.
+📬 Contacto: Si quieres charlar sobre redes, Python o darme feedback directo, puedes escribirme a: jdanielpintotrabajo@gmail.com
+
+
+### Ejemplo de salida en consola del programa:
 
 ```text
 ===================================
